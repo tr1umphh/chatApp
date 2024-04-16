@@ -1,0 +1,6 @@
+[submodule "thirdparty/SQLiteCpp"]
+	path = thirdparty/SQLiteCpp
+	url = https://github.com/SRombauts/SQLiteCpp.git
+[submodule "thirdparty/GameNetworkingSockets"]
+	path = thirdparty/GameNetworkingSockets
+	url = https://github.com/ValveSoftware/GameNetworkingSockets.git
