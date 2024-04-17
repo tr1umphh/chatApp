@@ -11,6 +11,7 @@ find_package(Boost 1.65.1 REQUIRED)
 enable_testing()
 add_subdirectory(thirdparty/SQLiteCpp)
 add_subdirectory(thirdparty/GameNetworkingSockets)
+add_subdirectory(thirdparty/fmt)
 add_subdirectory(chatCommon)
 add_subdirectory(chatClient)
 
